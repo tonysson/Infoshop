@@ -1,0 +1,131 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+main{
+  min-height: 80vh;
+}
+
+h3{
+  padding: 1rem 0;
+}
+.rating span{
+  margin: 0.02rem;
+}
+
+body{
+  background: #dcdde1 !important;
+  font-family: 'Roboto', sans-serif !;
+}
+
+th{
+  color: black;
+}
+
+.product_button {
+  background-color: #009432 !important;
+  letter-spacing: 2px;
+}
+
+.app_button{
+  letter-spacing: 2px;
+  background-color: #b71540 !important;
+}
+
+.nav-icon__cart{
+  font-size:1.7rem;
+  cursor:pointer;
+}
+
+.cart-badge{
+  background: #b71540 ;
+  color:white;
+  font-size:1rem;
+  border-radius: 50%;
+  padding:1px;
+}
+
+.search__button,
+.search__button:visited,
+.search__button:link{
+  font: inherit !important ;
+  border: 1px solid #b71540 !important;
+  padding: 0.65rem 1.1rem !important;
+  background:  #b71540 !important;
+  color: white !important;
+  cursor: pointer !important;
+  margin-right: 1rem !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  border-radius: 4px !important;
+  transition: all 0.4s !important;
+  letter-spacing: 2px;
+}
+
+.search__button:hover::after {
+    transform: scaleX(1.4) scaleY(1.6);
+    opacity: 0;
+ }
+
+.search__button:focus {
+  outline: none;
+}
+
+.search__button:hover,
+.search__button:active {
+  background: #b71540;
+  border-color: #b71540 ;
+   -webkit-transform: translateY(-3px);
+  transform: translateY(-3px);
+  -webkit-box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.15);
+}
+
+
+.out{
+  outline-width: 0 !important;
+}
+
+li span.page-link{
+  color : #b71540 !important ;
+  background-color: #dcdde1 !important;
+  border: 1px solid #b71540 !important;
+  font-size: 18px!important;
+}
+li a.page-link{
+   font-size: 18px!important;
+}
+
+
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active{
+  display: flex;
+}
+
+
+.carousel-caption{
+  position: absolute;
+  top: -15px;
+}
+
+.carousel-caption h6 {
+  color: #fff;
+}
+
+.carousel img {
+  height: 300px;
+  padding: 30px;
+  margin: 40px;
+  border-radius: 50%;
+}
+
+.carousel a {
+  margin: 0 auto !important;
+}
+
+.web_title{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 25px !important;
+}
