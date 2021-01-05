@@ -18,11 +18,11 @@
  - ADMIN page with a total control on users , products and all the application
  - Reviews and comments products 
 
-## Express and Node Js
- - Creation of the API
+## Express and Node Js (Back End )
+ - Creation of our  API
 
 ## MONGO DB (document based database)
  - Store all our data 
  
-## React Js
+## React Js (Front End )
  - Use of REDUX to manage the state of our application
