@@ -17,6 +17,7 @@
  - Payment with stripe
  - ADMIN page with a total control on users , products and all the application
  - Reviews and comments products 
+ - Search a product
 
 ## Express and Node Js (Back End )
  - Creation of our  API
