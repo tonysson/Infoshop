@@ -26,3 +26,6 @@
  
 ## React Js (Front End )
  - Use of REDUX to manage the state of our application
+
+## Demo
+https://l-infoshop.herokuapp.com/
